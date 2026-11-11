@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi, I'm Mohammed · أهلًا، أنا محمد 👋
+# Hi, I'm Mohammed · مرحبًا، أنا محمد 👋
 
-**iOS & React Native developer** · مطوّر iOS و React Native
+**iOS & React Native developer** · مطوّر تطبيقات iOS و React Native
 
 I build iPhone apps with React Native and Expo, and I like digging into how iOS works:
 sideloading, on-device AI, and media apps.
 
-أبني تطبيقات للآيفون بـ React Native و Expo، وأحب أفهم iOS من جوّا:
-تثبيت التطبيقات من برّا المتجر، الذكاء الاصطناعي على الجهاز، وتطبيقات الفيديو.
+أطوّر تطبيقات لأجهزة آيفون باستخدام React Native و Expo، وأهتمّ بفهم نظام iOS من الداخل:
+تثبيت التطبيقات من خارج المتجر، والذكاء الاصطناعي على الجهاز، وتطبيقات الوسائط.
 
 <br/>
 
@@ -23,7 +23,7 @@ sideloading, on-device AI, and media apps.
 
 ---
 
-## 🎬 Featured project · المشروع المميز
+## 🎬 Featured project · مشروع مميّز
 
 <a href="https://github.com/za7ef/mushaghili">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=za7ef&repo=mushaghili&theme=tokyonight&hide_border=true" alt="Mushaghili" />
@@ -33,20 +33,20 @@ sideloading, on-device AI, and media apps.
 
 **A Liquid Glass video player for iPhone.** Plays any link or file, finds subtitles automatically, lets you watch together with a room code, and sends video to your TV with AirPlay. Available in 15 languages, Arabic first.
 
-**مشغّل فيديو للآيفون بتصميم Liquid Glass.** يشغّل أي رابط أو ملف، يجيب الترجمة تلقائي، تتفرج فيه مع ربعك بكود غرفة، ويعرض على التلفزيون بـ AirPlay. متوفر بـ 15 لغة، والعربي أولها.
+**مشغّل فيديو لأجهزة آيفون بتصميم Liquid Glass.** يشغّل أي رابط أو ملف، ويجلب الترجمة تلقائيًا، ويتيح المشاهدة مع الأصدقاء برمز غرفة، والعرض على التلفاز عبر AirPlay. متاح بخمس عشرة لغة، في مقدّمتها العربية.
 
 `React Native` · `Expo SDK 58` · `expo-video` · `expo-router` · `Liquid Glass` · `GitHub Actions → unsigned IPA → SideStore`
 
-[⬇️ Latest release · آخر إصدار](https://github.com/za7ef/mushaghili/releases/latest) · [📝 Changelog](https://github.com/za7ef/mushaghili/blob/main/CHANGELOG.md)
+[⬇️ Latest release · أحدث إصدار](https://github.com/za7ef/mushaghili/releases/latest) · [📝 Changelog](https://github.com/za7ef/mushaghili/blob/main/CHANGELOG.md)
 
 ---
 
-## 🔧 What I'm into · وش يهمّني
+## 🔧 What I'm into · اهتماماتي
 
-- 📱 **iOS tinkering:** sideloading, IPA builds, SideStore · تثبيت التطبيقات وملفات IPA
-- 🤖 **On-device AI:** running models locally on iPhone · تشغيل نماذج الذكاء الاصطناعي على الجوال
-- 🎞️ **Media apps:** players, subtitles, AirPlay · تطبيقات الفيديو والترجمة
-- ⚙️ **Automation:** CI builds with GitHub Actions · البناء التلقائي
+- 📱 **iOS tinkering:** sideloading, IPA builds, SideStore · تثبيت التطبيقات وملفات IPA من خارج المتجر
+- 🤖 **On-device AI:** running models locally on iPhone · تشغيل نماذج الذكاء الاصطناعي على الجهاز
+- 🎞️ **Media apps:** players, subtitles, AirPlay · تطبيقات الفيديو والترجمة والبثّ
+- ⚙️ **Automation:** CI builds with GitHub Actions · البناء والنشر الآلي
 
 ---
 
